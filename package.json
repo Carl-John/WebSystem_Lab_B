@@ -1,0 +1,11 @@
+{
+  "name": "cruz_carl-john_e._websystem_lab_b",
+  "version": "1.0.0",
+  "description": "Create a node.js application that utilizes a file as a simple database see (f-01). Your app should generate and process from user input see (i-01). Modify your package.json.",
+  "main": "exam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carl John E. Cruz",
+  "license": "ISC"
+}
